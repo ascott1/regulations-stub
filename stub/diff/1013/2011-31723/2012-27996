@@ -1,4 +1,58 @@
 {
+    "1013-2-Interp": {
+        "node": {
+            "child_labels": [
+                "1013-2-e-Interp"
+            ], 
+            "label": [
+                "1013", 
+                "2", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1013-2-e-Interp": {
+        "node": {
+            "child_labels": [
+                "1013-2-e-Interp-9"
+            ], 
+            "label": [
+                "1013", 
+                "2", 
+                "e", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1013-2-e-Interp-9": {
+        "node": {
+            "child_labels": [
+                "1013-2-e-Interp-9-iv"
+            ], 
+            "label": [
+                "1013", 
+                "2", 
+                "e", 
+                "Interp", 
+                "9"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
     "1013-2-e-Interp-9-iv": {
         "node": {
             "child_labels": [], 
@@ -13,6 +67,22 @@
             "node_type": "interp", 
             "tagged_text": "iv. From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.", 
             "text": "iv. From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1013-Interp": {
+        "node": {
+            "child_labels": [
+                "1013-2-Interp"
+            ], 
+            "label": [
+                "1013", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
             "title": null
         }, 
         "op": "added"

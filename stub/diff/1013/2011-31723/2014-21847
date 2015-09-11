@@ -1,4 +1,60 @@
 {
+    "1013-2-Interp": {
+        "node": {
+            "child_labels": [
+                "1013-2-e-Interp"
+            ], 
+            "label": [
+                "1013", 
+                "2", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1013-2-e-Interp": {
+        "node": {
+            "child_labels": [
+                "1013-2-e-Interp-9"
+            ], 
+            "label": [
+                "1013", 
+                "2", 
+                "e", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1013-2-e-Interp-9": {
+        "node": {
+            "child_labels": [
+                "1013-2-e-Interp-9-iv", 
+                "1013-2-e-Interp-9-v", 
+                "1013-2-e-Interp-9-vi"
+            ], 
+            "label": [
+                "1013", 
+                "2", 
+                "e", 
+                "Interp", 
+                "9"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
     "1013-2-e-Interp-9-iv": {
         "node": {
             "child_labels": [], 
@@ -49,6 +105,22 @@
             "node_type": "interp", 
             "tagged_text": "vi. From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.", 
             "text": "vi. From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1013-Interp": {
+        "node": {
+            "child_labels": [
+                "1013-2-Interp"
+            ], 
+            "label": [
+                "1013", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
             "title": null
         }, 
         "op": "added"

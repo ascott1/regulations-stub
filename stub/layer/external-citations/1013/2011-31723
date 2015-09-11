@@ -1,20 +1,4 @@
 {
-    "1013-1-Interp-1": [
-        {
-            "citation": [
-                "124", 
-                "Stat.", 
-                "1376"
-            ], 
-            "citation_type": "STATUTES_AT_LARGE", 
-            "offsets": [
-                [
-                    468, 
-                    482
-                ]
-            ]
-        }
-    ], 
     "1013-1-a": [
         {
             "citation": [
@@ -126,22 +110,6 @@
             ]
         }
     ], 
-    "1013-2-e-Interp-4": [
-        {
-            "citation": [
-                "12", 
-                "226", 
-                "2"
-            ], 
-            "citation_type": "CFR", 
-            "offsets": [
-                [
-                    114, 
-                    126
-                ]
-            ]
-        }
-    ], 
     "1013-2-h": [
         {
             "citation": [
@@ -172,66 +140,6 @@
             ]
         }
     ], 
-    "1013-3-b-Interp-1": [
-        {
-            "citation": [
-                15, 
-                1601
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    137, 
-                    144
-                ]
-            ]
-        }
-    ], 
-    "1013-4-l-Interp-2": [
-        {
-            "citation": [
-                15, 
-                1601
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    180, 
-                    187
-                ]
-            ]
-        }
-    ], 
-    "1013-4-m-Interp-2": [
-        {
-            "citation": [
-                15, 
-                1601
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    58, 
-                    65
-                ]
-            ]
-        }
-    ], 
-    "1013-4-q-Interp-5": [
-        {
-            "citation": [
-                15, 
-                1601
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    60, 
-                    67
-                ]
-            ]
-        }
-    ], 
     "1013-4-t": [
         {
             "citation": [
@@ -243,25 +151,6 @@
                 [
                     110, 
                     117
-                ]
-            ]
-        }
-    ], 
-    "1013-7-a-Interp-1": [
-        {
-            "citation": [
-                15, 
-                1601
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    496, 
-                    503
-                ], 
-                [
-                    692, 
-                    699
                 ]
             ]
         }
@@ -330,64 +219,6 @@
                 [
                     328, 
                     335
-                ]
-            ]
-        }
-    ], 
-    "1013-A-Interp-1": [
-        {
-            "citation": [
-                15, 
-                1601
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    324, 
-                    331
-                ]
-            ]
-        }
-    ], 
-    "1013-C-p1": [
-        {
-            "citation": [
-                15, 
-                1601
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    126, 
-                    133
-                ]
-            ]
-        }
-    ], 
-    "1013-Interp-h1-1": [
-        {
-            "citation": [
-                "12", 
-                "1013"
-            ], 
-            "citation_type": "CFR", 
-            "offsets": [
-                [
-                    168, 
-                    184
-                ]
-            ]
-        }, 
-        {
-            "citation": [
-                "15", 
-                "1640"
-            ], 
-            "citation_type": "USC", 
-            "offsets": [
-                [
-                    314, 
-                    328
                 ]
             ]
         }

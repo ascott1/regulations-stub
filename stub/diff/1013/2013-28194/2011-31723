@@ -1,8 +1,20 @@
 {
+    "1013-2-Interp": {
+        "op": "deleted"
+    }, 
+    "1013-2-e-Interp": {
+        "op": "deleted"
+    }, 
+    "1013-2-e-Interp-9": {
+        "op": "deleted"
+    }, 
     "1013-2-e-Interp-9-iv": {
         "op": "deleted"
     }, 
     "1013-2-e-Interp-9-v": {
+        "op": "deleted"
+    }, 
+    "1013-Interp": {
         "op": "deleted"
     }
 }
