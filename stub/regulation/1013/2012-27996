@@ -71,7 +71,7 @@
                                 "c"
                             ],
                             "node_type":"regtext",
-                            "text":"(c) Enforcement and liability.Section 108 of the ActAct contains the administrative enforcement provisions. Sections 112, 130, 131, and 185 of the ActAct contain the liability provisions for failing to comply with the requirements of the ActAct and this part.",
+                            "text":"(c) Enforcement and liability.Section 108 of the Act contains the administrative enforcement provisions. Sections 112, 130, 131, and 185 of the Act contain the liability provisions for failing to comply with the requirements of the Act and this part.",
                             "marker":"(c)"
                         }
                     ],
@@ -85,6 +85,17 @@
                 },
                 {
                     "children":[
+                        {
+                            "children":[],
+                            "label":[
+                                "1005",
+                                "2",
+                                "p1"
+                            ],
+                            "node_type":"regtext",
+                            "text":"For purposes of this part the following definitions apply:",
+                            "marker":"none"
+                        },
                         {
                             "children":[],
                             "label":[
@@ -452,7 +463,7 @@
                                 "c"
                             ],
                             "node_type":"regtext",
-                            "text":"(c) Multiple lessors or lessees.lessors or lessees. When a transaction involves more than one lessor, the disclosures required by this part may be made by one lessor on behalf of all the lessors. When a lease involves more than one lessee, the lessor may provide the disclosures to any lessee who is primarily liable on the lease.",
+                            "text":"(c) Multiple lessors or lessees.When a transaction involves more than one lessor, the disclosures required by this part may be made by one lessor on behalf of all the lessors. When a lease involves more than one lessee, the lessor may provide the disclosures to any lessee who is primarily liable on the lease.",
                             "marker":"(c)"
                         },
                         {
@@ -553,6 +564,17 @@
                             "label":[
                                 "1013",
                                 "4",
+                                "p1"
+                            ],
+                            "node_type":"regtext",
+                            "text":"For any consumer lease subject to this part, the lessor shall disclose the following information, as applicable:",
+                            "marker":"none"
+                        },
+                        {
+                            "children":[],
+                            "label":[
+                                "1013",
+                                "4",
                                 "a"
                             ],
                             "node_type":"regtext",
@@ -567,7 +589,7 @@
                                 "b"
                             ],
                             "node_type":"regtext",
-                            "text":"(b) Amount due at lease signing or delivery.lease signing or delivery. The total amount to be paid prior to or at consummation or by delivery, if delivery occurs after consummation, using the term \u201camount due at lease signing or delivery.\u201d The lessor shall itemize each component by type and amount, including any refundable security deposit, advance monthly or other periodic payment, and capitalized cost reduction; and in motor vehicle leases, shall itemize how the amount due will be paid, by type and amount, including any net trade-in allowance, rebates, noncash credits, and cash payments in a format substantially similar to the model forms in Appendix A of this part.",
+                            "text":"(b) Amount due at lease signing or delivery.The total amount to be paid prior to or at consummation or by delivery, if delivery occurs after consummation, using the term \u201camount due at lease signing or delivery.\u201d The lessor shall itemize each component by type and amount, including any refundable security deposit, advance monthly or other periodic payment, and capitalized cost reduction; and in motor vehicle leases, shall itemize how the amount due will be paid, by type and amount, including any net trade-in allowance, rebates, noncash credits, and cash payments in a format substantially similar to the model forms in Appendix A of this part.",
                             "marker":"(b)"
                         },
                         {
@@ -614,7 +636,7 @@
                                         "1"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(1) Gross capitalized cost.Gross capitalized cost The gross capitalized cost, including a disclosure of the agreed upon value of the vehicle, a description such as \u201cthe agreed upon value of the vehicle [state the amount] and any items you pay for over the lease term (such as service contracts, insurance, and any outstanding prior credit or lease balance),\u201d and a statement of the lessee's option to receive a separate written itemization of the gross capitalized cost. If requested by the lessee, the itemization shall be provided before consummation.",
+                                    "text":"(1) Gross capitalized cost.The gross capitalized cost, including a disclosure of the agreed upon value of the vehicle, a description such as \u201cthe agreed upon value of the vehicle [state the amount] and any items you pay for over the lease term (such as service contracts, insurance, and any outstanding prior credit or lease balance),\u201d and a statement of the lessee's option to receive a separate written itemization of the gross capitalized cost. If requested by the lessee, the itemization shall be provided before consummation.",
                                     "marker":"(1)"
                                 },
                                 {
@@ -650,7 +672,7 @@
                                         "4"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(4) Residual value.Residual value The residual value, with a description such as \u201cthe value of the vehicle at the end of the lease used in calculating your base [periodic] payment.\u201d",
+                                    "text":"(4) Residual value.The residual value, with a description such as \u201cthe value of the vehicle at the end of the lease used in calculating your base [periodic] payment.\u201d",
                                     "marker":"(4)"
                                 },
                                 {
@@ -698,7 +720,7 @@
                                         "8"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(8) Lease payments.Lease The lease payments with a description such as \u201cthe number of payments in your lease.\u201d",
+                                    "text":"(8) Lease payments.The lease payments with a description such as \u201cthe number of payments in your lease.\u201d",
                                     "marker":"(8)"
                                 },
                                 {
@@ -744,7 +766,7 @@
                                 "f"
                             ],
                             "node_type":"regtext",
-                            "text":"(f) Payment calculation.In a motor vehicle lease, a mathematical progression of how the scheduled periodic payment is derived, in a format substantially similar to the applicable model form in appendix A of this part, which shall contain the following:",
+                            "text":"(f) Payment calculation.In a motor vehicle lease, a mathematical progression of how the scheduled periodic payment is derived, in a format substantially similar to the applicable model form in Appendix A of this part, which shall contain the following:",
                             "marker":"(f)"
                         },
                         {
@@ -842,7 +864,7 @@
                                         "1"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(1) End of lease term.lease term. If at the end of the lease term, the purchase price; and",
+                                    "text":"(1) End of lease term.If at the end of the lease term, the purchase price; and",
                                     "marker":"(1)"
                                 },
                                 {
@@ -886,7 +908,7 @@
                                 "k"
                             ],
                             "node_type":"regtext",
-                            "text":"(k) Liability between residual and realized values.realized values. A statement of the lessee's liability, if any, at early termination or at the end of the lease term for the difference between the residual value of the leased property and its realized value.",
+                            "text":"(k) Liability between residual and realized values.A statement of the lessee's liability, if any, at early termination or at the end of the lease term for the difference between the residual value of the leased property and its realized value.",
                             "marker":"(k)"
                         },
                         {
@@ -945,7 +967,7 @@
                                 "m"
                             ],
                             "node_type":"regtext",
-                            "text":"(m) Liability at end of lease term based on residual value.lease term based on residual value. If the lessee is liable at the end of the lease term for the difference between the residual value of the leased property and its realized value:",
+                            "text":"(m) Liability at end of lease term based on residual value.If the lessee is liable at the end of the lease term for the difference between the residual value of the leased property and its realized value:",
                             "marker":"(m)"
                         },
                         {
@@ -970,7 +992,7 @@
                                         "1"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(1) Through the lessor.lessor. If the insurance is provided by or paid through the lessor, the types and amounts of coverage and the cost to the lessee; or",
+                                    "text":"(1) Through the lessor.If the insurance is provided by or paid through the lessor, the types and amounts of coverage and the cost to the lessee; or",
                                     "marker":"(1)"
                                 },
                                 {
@@ -1025,7 +1047,7 @@
                                 "r"
                             ],
                             "node_type":"regtext",
-                            "text":"(r) Security interest.Security interest A description of any security interest, other than a security deposit disclosed under paragraph (b) of this section, held or to be retained by the lessor; and a clear identification of the property to which the security interest relates.",
+                            "text":"(r) Security interest.A description of any security interest, other than a security deposit disclosed under paragraph (b) of this section, held or to be retained by the lessor; and a clear identification of the property to which the security interest relates.",
                             "marker":"(r)"
                         },
                         {
@@ -1047,7 +1069,7 @@
                                 "t"
                             ],
                             "node_type":"regtext",
-                            "text":"(t) Non-motor vehicle open-end leases.open-end leases. Non-motor vehicle open-end leases remain subject to section 182(10) of the ActAct regarding end of term liability.",
+                            "text":"(t) Non-motor vehicle open-end leases.Non-motor vehicle open-end leases remain subject to section 182(10) of the ActAct regarding end of term liability.",
                             "marker":"(t)"
                         }
                     ],
@@ -1221,7 +1243,7 @@
                                         "1"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(1) Amount due at lease signing or delivery.lease signing or delivery. Except for the statement of a periodic payment, any affirmative or negative reference to a charge that is a part of the disclosure required under paragraph (d)(2)(ii) of this section shall not be more prominent than that disclosure.",
+                                    "text":"(1) Amount due at lease signing or delivery.Except for the statement of a periodic payment, any affirmative or negative reference to a charge that is a part of the disclosure required under paragraph (d)(2)(ii) of this section shall not be more prominent than that disclosure.",
                                     "marker":"(1)"
                                 },
                                 {
@@ -1233,7 +1255,7 @@
                                         "2"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(2) Advertisement of a lease rate.Advertisementlease rate. If a lessor provides a percentage rate in an advertisement, the rate shall not be more prominent than any of the disclosures in \u00a7 1013.4, with the exception of the notice in \u00a7 1013.4(s) required to accompany the rate; and the lessor shall not use the term \u201cannual percentage rate,\u201d \u201cannual lease rate,\u201d or equivalent term.",
+                                    "text":"(2) Advertisement of a lease rate.If a lessor provides a percentage rate in an advertisement, the rate shall not be more prominent than any of the disclosures in \u00a7 1013.4, with the exception of the notice in \u00a7 1013.4(s) required to accompany the rate; and the lessor shall not use the term \u201cannual percentage rate,\u201d \u201cannual lease rate,\u201d or equivalent term.",
                                     "marker":"(2)"
                                 }
                             ],
@@ -1254,7 +1276,7 @@
                                 "c"
                             ],
                             "node_type":"regtext",
-                            "text":"(c) Catalogs or other multipage advertisements; electronic advertisements.advertisements; electronic advertisements. A catalog or other multipage advertisement, or an electronic advertisement (such as an advertisement appearing on an Internet Web site), that provides a table or schedule of the required disclosures shall be considered a single advertisement if, for lease terms that appear without all the required disclosures, the advertisement refers to the page or pages on which the table or schedule appears.",
+                            "text":"(c) Catalogs or other multipage advertisements; electronic advertisements.A catalog or other multipage advertisement, or an electronic advertisement (such as an advertisement appearing on an Internet Web site), that provides a table or schedule of the required disclosures shall be considered a single advertisement if, for lease terms that appear without all the required disclosures, the advertisement refers to the page or pages on which the table or schedule appears.",
                             "marker":"(c)"
                         },
                         {
@@ -1383,7 +1405,7 @@
                                 "d"
                             ],
                             "node_type":"regtext",
-                            "text":"(d) Advertisement of terms that require additional disclosure.\n                Advertisement",
+                            "text":"(d) Advertisement of terms that require additional disclosure.",
                             "marker":"(d)"
                         },
                         {
@@ -1435,7 +1457,7 @@
                                         "1"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(1) Toll-free number or print advertisement.advertisement. An advertisement made through television or radio stating any item listed in paragraph (d)(1) of this section complies with paragraph (d)(2) of this section if the advertisement states the items listed in paragraphs (d)(2)(i) through (iii) of this section, and:",
+                                    "text":"(1) Toll-free number or print advertisement.An advertisement made through television or radio stating any item listed in paragraph (d)(1) of this section complies with paragraph (d)(2) of this section if the advertisement states the items listed in paragraphs (d)(2)(i) through (iii) of this section, and:",
                                     "marker":"(1)"
                                 },
                                 {
@@ -1516,7 +1538,7 @@
                                 "a"
                             ],
                             "node_type":"regtext",
-                            "text":"(a) Inconsistent state law.state law. A state law that is inconsistent with the requirements of the ActAct and this part is preempted to the extent of the inconsistency. If a lessor cannot comply with a state law without violating a provision of this part, the state law is inconsistent within the meaning of section 186(a) of the ActAct and is preempted, unless the state law gives greater protection and benefit to the consumer. A state, through an official having primary enforcement or interpretative responsibilities for the state consumer leasing law, may apply to the Bureau for a preemption determination.",
+                            "text":"(a) Inconsistent state law.A state law that is inconsistent with the requirements of the Act and this part is preempted to the extent of the inconsistency. If a lessor cannot comply with a state law without violating a provision of this part, the state law is inconsistent within the meaning of section 186(a) of the Act and is preempted, unless the state law gives greater protection and benefit to the consumer. A state, through an official having primary enforcement or interpretative responsibilities for the state consumer leasing law, may apply to the Bureau for a preemption determination.",
                             "marker":"(a)"
                         },
                         {
@@ -1557,7 +1579,7 @@
                                         "1"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(1) Application.A state may apply to the Bureau for an exemption from the requirements of the ActAct and this part for any class of lease transactions within the state. The Bureau will grant such an exemption if the Bureau determines that:",
+                                    "text":"(1) Application.A state may apply to the Bureau for an exemption from the requirements of the Act and this part for any class of lease transactions within the state. The Bureau will grant such an exemption if the Bureau determines that:",
                                     "marker":"(1)"
                                 },
                                 {
@@ -1569,7 +1591,7 @@
                                         "2"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(2) Enforcement and liability.After an exemption has been granted, the requirements of the applicable state law (except for additional requirements not imposed by Federal law) will constitute the requirements of the ActAct and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of the ActAct.",
+                                    "text":"(2) Enforcement and liability.After an exemption has been granted, the requirements of the applicable state law (except for additional requirements not imposed by Federal law) will constitute the requirements of the Act and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of the ActAct.",
                                     "marker":"(2)"
                                 }
                             ],
@@ -2032,7 +2054,7 @@
                                         "3"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Persons See the commentary to \u00a7 1013.7(a).",
+                                    "text":"See the commentary to \u00a7 1013.7(a).",
                                     "title":"Persons covered.",
                                     "marker":"3."
                                 }
@@ -2243,7 +2265,7 @@
                                         "6"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Organization A consumer lease does not include a lease made to an organization such as a corporation or a government agency or instrumentality. Such a lease is not covered by the regulation even if the leased property is used (by an employee, for example) primarily for personal, family or household purposes, or is guaranteed by or subsequently assigned to a natural person.",
+                                    "text":"A consumer lease does not include a lease made to an organization such as a corporation or a government agency or instrumentality. Such a lease is not covered by the regulation even if the leased property is used (by an employee, for example) primarily for personal, family or household purposes, or is guaranteed by or subsequently assigned to a natural person.",
                                     "title":"Organization or other entity.",
                                     "marker":"6."
                                 },
@@ -2300,7 +2322,7 @@
                                         "7"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Leasespersonal property incidental to a service. The following leases of personal property are deemed incidental to a service and thus are not subject to the regulation:",
+                                    "text":"The following leases of personal property are deemed incidental to a service and thus are not subject to the regulation:",
                                     "title":"Leases of personal property incidental to a service.",
                                     "marker":"7."
                                 },
@@ -2468,7 +2490,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"lease. To \u201carrange\u201d for the lease of personal property means to provide or offer to provide a lease that is or will be extended by another person under a business or other relationship pursuant to which the person arranging the lease (a) receives or will receive a fee, compensation, or other consideration for the service or (b) has knowledge of the lease terms and participates in the preparation of the contract documents required in connection with the lease. To illustrate:",
+                                    "text":"To \u201carrange\u201d for the lease of personal property means to provide or offer to provide a lease that is or will be extended by another person under a business or other relationship pursuant to which the person arranging the lease (a) receives or will receive a fee, compensation, or other consideration for the service or (b) has knowledge of the lease terms and participates in the preparation of the contract documents required in connection with the lease. To illustrate:",
                                     "title":"Arranger of a lease.",
                                     "marker":"1."
                                 },
@@ -2510,7 +2532,7 @@
                                         "4"
                                     ],
                                     "node_type":"interp",
-                                    "text":"lessors. See the commentary to \u00a7 1013.3(c).",
+                                    "text":"See the commentary to \u00a7 1013.3(c).",
                                     "title":"Multiple lessors.",
                                     "marker":"4."
                                 }
@@ -2619,7 +2641,7 @@
                                         "3"
                                     ],
                                     "node_type":"interp",
-                                    "text":"realized value. Disposition charges are not subtracted in determining the realized value but amounts attributable to taxes may be subtracted.",
+                                    "text":"Disposition charges are not subtracted in determining the realized value but amounts attributable to taxes may be subtracted.",
                                     "title":"Determination of realized value.",
                                     "marker":"3."
                                 },
@@ -2647,7 +2669,7 @@
                                         "5"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Lessor See commentary to \u00a7 1013.4(l).",
+                                    "text":"See commentary to \u00a7 1013.4(l).",
                                     "title":"Lessor's appraisal.",
                                     "marker":"5."
                                 }
@@ -2888,7 +2910,7 @@
                                                 "3"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Lessor The lessor must be identified by name; an address (and telephone number) may be provided.",
+                                            "text":"The lessor must be identified by name; an address (and telephone number) may be provided.",
                                             "title":"Lessor's address.",
                                             "marker":"3."
                                         },
@@ -2903,7 +2925,7 @@
                                                 "4"
                                             ],
                                             "node_type":"interp",
-                                            "text":"lessors and lessees. In transactions involving multiple lessors and multiple lessees, a single lessor may make all the disclosures to a single lessee as long as the disclosure statement identifies all the lessors and lessees.",
+                                            "text":"In transactions involving multiple lessors and multiple lessees, a single lessor may make all the disclosures to a single lessee as long as the disclosure statement identifies all the lessors and lessees.",
                                             "title":"Multiple lessors and lessees.",
                                             "marker":"4."
                                         },
@@ -2918,7 +2940,7 @@
                                                 "5"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Lessee The regulation does not require that the lessee sign the disclosure statement, whether disclosures are separately provided or are part of the lease contract. Nevertheless, to provide evidence that disclosures are given before a lessee becomes obligated on the lease transaction, the lessor may, for example, ask the lessee to sign the disclosure statement or an acknowledgement of receipt, may place disclosures that are included in the lease documents above the lessee's signature, or include instructions alerting a lessee to read the disclosures prior to signing the lease.",
+                                            "text":"The regulation does not require that the lessee sign the disclosure statement, whether disclosures are separately provided or are part of the lease contract. Nevertheless, to provide evidence that disclosures are given before a lessee becomes obligated on the lease transaction, the lessor may, for example, ask the lessee to sign the disclosure statement or an acknowledgement of receipt, may place disclosures that are included in the lease documents above the lessee's signature, or include instructions alerting a lessee to read the disclosures prior to signing the lease.",
                                             "title":"Lessee's signature.",
                                             "marker":"5."
                                         }
@@ -3045,7 +3067,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"State A lessor may include in the nonsegregated disclosures any state law disclosures that are not inconsistent with the ActAct and regulation under \u00a7 1013.9 as long as, in accordance with the standard set forth in \u00a7 1013.3(b) for additional information, the state law disclosures are not used or placed to mislead or confuse or detract from any disclosure required by the regulation.",
+                                    "text":"A lessor may include in the nonsegregated disclosures any state law disclosures that are not inconsistent with the Act and regulation under \u00a7 1013.9 as long as, in accordance with the standard set forth in \u00a7 1013.3(b) for additional information, the state law disclosures are not used or placed to mislead or confuse or detract from any disclosure required by the regulation.",
                                     "title":"State law disclosures.",
                                     "marker":"1."
                                 }
@@ -3072,7 +3094,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"lessors. If a single lessor provides disclosures to a lessee on behalf of several lessors, all disclosures for the transaction must be given, even if the lessor making the disclosures would not otherwise have been obligated to make a particular disclosure.",
+                                    "text":"If a single lessor provides disclosures to a lessee on behalf of several lessors, all disclosures for the transaction must be given, even if the lessor making the disclosures would not otherwise have been obligated to make a particular disclosure.",
                                     "title":"Multiple lessors.",
                                     "marker":"1."
                                 }
@@ -3156,7 +3178,7 @@
                                         "3"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Residual value In an open-end lease where the lessee's liability at the end of the lease term is based on the residual value of the leased property as determined at consummation, the estimate of the residual value must be reasonable and based on the best information reasonably available to the lessor (see \u00a7 1013.4(m)). A lessor should generally use an accepted trade publication listing estimated current or future market prices for the leased property unless other information or a reasonable belief based on its experience provides the better information. For example:",
+                                    "text":"In an open-end lease where the lessee's liability at the end of the lease term is based on the residual value of the leased property as determined at consummation, the estimate of the residual value must be reasonable and based on the best information reasonably available to the lessor (see \u00a7 1013.4(m)). A lessor should generally use an accepted trade publication listing estimated current or future market prices for the leased property unless other information or a reasonable belief based on its experience provides the better information. For example:",
                                     "title":"Residual value of leased property at termination.",
                                     "marker":"3."
                                 },
@@ -3296,7 +3318,7 @@
                                         "3"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Lessee The lessor does not violate the regulation if a previously given disclosure becomes inaccurate when a lessee fails to perform obligations under the contract and a lessor takes actions that are necessary and proper in such circumstances to protect its interest. For example, the addition of insurance or a security interest by the lessor because the lessee has not performed obligations contracted for in the lease is not a violation of the regulation.",
+                                    "text":"The lessor does not violate the regulation if a previously given disclosure becomes inaccurate when a lessee fails to perform obligations under the contract and a lessor takes actions that are necessary and proper in such circumstances to protect its interest. For example, the addition of insurance or a security interest by the lessor because the lessee has not performed obligations contracted for in the lease is not a violation of the regulation.",
                                     "title":"Lessee's failure to perform.",
                                     "marker":"3."
                                 }
@@ -3628,7 +3650,7 @@
                                         "5"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Lesseelease term. Liabilities that the lessor imposes upon the lessee at the end of the scheduled lease term and that must be disclosed under \u00a7 1013.4(d) include disposition and \u201cpick-up\u201d charges.",
+                                    "text":"Liabilities that the lessor imposes upon the lessee at the end of the scheduled lease term and that must be disclosed under \u00a7 1013.4(d) include disposition and \u201cpick-up\u201d charges.",
                                     "title":"Lessee's liabilities at the end of the lease term.",
                                     "marker":"5."
                                 },
@@ -3669,7 +3691,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Open-end lease The additional statement is required under \u00a7 1013.4(e) for open-end leases because, with some limitations, a lessee is liable at the end of the lease term for the difference between the residual and realized values of the leased property.",
+                                    "text":"The additional statement is required under \u00a7 1013.4(e) for open-end leases because, with some limitations, a lessee is liable at the end of the lease term for the difference between the residual and realized values of the leased property.",
                                     "title":"Open-end lease.",
                                     "marker":"1."
                                 }
@@ -3696,7 +3718,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"lease. Whether leased property is a motor vehicle is determined by state or other applicable law.",
+                                    "text":"Whether leased property is a motor vehicle is determined by state or other applicable law.",
                                     "title":"Motor vehicle lease.",
                                     "marker":"1."
                                 },
@@ -3742,7 +3764,7 @@
                                                 "2"
                                             ],
                                             "node_type":"interp",
-                                            "text":"gross capitalized cost. The lessor may choose to provide the itemization of the gross capitalized cost only on request or may provide the itemization as a matter of course. In the latter case, the lessor need not provide a statement of the lessee's option to receive an itemization. The gross capitalized cost must be itemized by type and amount. The lessor may include in the itemization an identification of the items and amounts of some or all of the items contained in the agreed upon value of the vehicle. The itemization must be provided at the same time as the other disclosures required by \u00a7 1013.4, but it may not be included among the segregated disclosures.",
+                                            "text":"The lessor may choose to provide the itemization of the gross capitalized cost only on request or may provide the itemization as a matter of course. In the latter case, the lessor need not provide a statement of the lessee's option to receive an itemization. The gross capitalized cost must be itemized by type and amount. The lessor may include in the itemization an identification of the items and amounts of some or all of the items contained in the agreed upon value of the vehicle. The itemization must be provided at the same time as the other disclosures required by \u00a7 1013.4, but it may not be included among the segregated disclosures.",
                                             "title":"Itemization of the gross capitalized cost.",
                                             "marker":"2."
                                         }
@@ -3800,7 +3822,7 @@
                                                 "1"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Lease The lease term may be disclosed among the segregated disclosures.",
+                                            "text":"The lease term may be disclosed among the segregated disclosures.",
                                             "title":"Lease Term.",
                                             "marker":"1."
                                         }
@@ -3902,7 +3924,7 @@
                                                 "5"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Lessee When the lessee is liable for the difference between the unamortized cost and the realized value at early termination, the method of determining the amount of the difference must be disclosed under \u00a7 1013.4(g)(1).",
+                                            "text":"When the lessee is liable for the difference between the unamortized cost and the realized value at early termination, the method of determining the amount of the difference must be disclosed under \u00a7 1013.4(g)(1).",
                                             "title":"Lessee's liability at early termination.",
                                             "marker":"5."
                                         }
@@ -4107,7 +4129,7 @@
                                         "2"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Lessor If the lessor obtains an appraisal of the leased property to determine its realized value, that appraisal does not suffice for purposes of section 183(c) of the ActAct; the lessor must disclose the lessee's right to an independent appraisal under \u00a7 1013.4(l).",
+                                    "text":"If the lessor obtains an appraisal of the leased property to determine its realized value, that appraisal does not suffice for purposes of section 183(c) of the Act; the lessor must disclose the lessee's right to an independent appraisal under \u00a7 1013.4(l).",
                                     "title":"Lessor's appraisal.",
                                     "marker":"2."
                                 },
@@ -4162,7 +4184,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Open-end leases Section 1013.4(m) applies only to open-end leases.",
+                                    "text":"Section 1013.4(m) applies only to open-end leases.",
                                     "title":"Open-end leases.",
                                     "marker":"1."
                                 },
@@ -4176,7 +4198,7 @@
                                         "2"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Lessor Section 183(a) of the ActAct requires that the lessor pay the lessee's attorney's fees in all actions under \u00a7 1013.4(m), whether successful or not.",
+                                    "text":"Section 183(a) of the ActAct requires that the lessor pay the lessee's attorney's fees in all actions under \u00a7 1013.4(m), whether successful or not.",
                                     "title":"Lessor's payment of attorney's fees.",
                                     "marker":"2."
                                 },
@@ -4464,7 +4486,7 @@
                                         "2"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Lessor Insurance purchased by the lessor primarily for its own benefit, and absorbed as a business expense and not separately charged to the lessee, need not be disclosed under \u00a7 1013.4(o) even if it provides an incidental benefit to the lessee.",
+                                    "text":"Insurance purchased by the lessor primarily for its own benefit, and absorbed as a business expense and not separately charged to the lessee, need not be disclosed under \u00a7 1013.4(o) even if it provides an incidental benefit to the lessee.",
                                     "title":"Lessor's insurance.",
                                     "marker":"2."
                                 },
@@ -4588,7 +4610,7 @@
                                         "3"
                                     ],
                                     "node_type":"interp",
-                                    "text":"leases. In a simple-interest accounting lease, the additional rent charge that accrues on the lease balance when a periodic payment is made after the due date does not constitute a penalty or other charge for late payment. Similarly, continued accrual of the rent charge after termination of the lease because the lessee fails to return the leased property does not constitute a default charge. But in either case, if the additional charge accrues at a rate higher than the normal rent charge, the lessor must disclose the amount of or the method of determining the additional charge under \u00a7 1013.4(q).",
+                                    "text":"In a simple-interest accounting lease, the additional rent charge that accrues on the lease balance when a periodic payment is made after the due date does not constitute a penalty or other charge for late payment. Similarly, continued accrual of the rent charge after termination of the lease because the lessee fails to return the leased property does not constitute a default charge. But in either case, if the additional charge accrues at a rate higher than the normal rent charge, the lessor must disclose the amount of or the method of determining the additional charge under \u00a7 1013.4(q).",
                                     "title":"Simple-interest leases.",
                                     "marker":"3."
                                 },
@@ -4616,7 +4638,7 @@
                                         "5"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Pursuant to section 183(b) of the ActAct, penalties or other charges for delinquency, default, or early termination may be specified in the lease but only in an amount that is reasonable in light of the anticipated or actual harm caused by the delinquency, default, or early termination, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.",
+                                    "text":"Pursuant to section 183(b) of the Act, penalties or other charges for delinquency, default, or early termination may be specified in the lease but only in an amount that is reasonable in light of the anticipated or actual harm caused by the delinquency, default, or early termination, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.",
                                     "title":"Reasonableness of charges.",
                                     "marker":"5."
                                 }
@@ -4643,7 +4665,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"security interests. See \u00a7 1013.2(o) and accompanying commentary to determine what security interests must be disclosed.",
+                                    "text":"See \u00a7 1013.2(o) and accompanying commentary to determine what security interests must be disclosed.",
                                     "title":"Disclosable security interests.",
                                     "marker":"1."
                                 }
@@ -4856,7 +4878,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Persons All \u201cpersons\u201d must comply with the advertising provisions in this section, not just those that meet the definition of a lessor in \u00a7 1013.2(h). Thus, automobile dealers (to the extent they are not excluded from the Bureau's rulemaking authority by section 1029 of the Dodd-Frank Act), merchants, and others who are not themselves lessors must comply with the advertising provisions of the regulation if they advertise consumer lease transactions. Pursuant to section 184(b) of the ActAct, however, owners and personnel of the media in which an advertisement appears or through which it is disseminated are not subject to civil liability for violations under section 185(b) of the ActAct.",
+                                    "text":"All \u201cpersons\u201d must comply with the advertising provisions in this section, not just those that meet the definition of a lessor in \u00a7 1013.2(h). Thus, automobile dealers (to the extent they are not excluded from the Bureau's rulemaking authority by section 1029 of the Dodd-Frank Act), merchants, and others who are not themselves lessors must comply with the advertising provisions of the regulation if they advertise consumer lease transactions. Pursuant to section 184(b) of the Act, however, owners and personnel of the media in which an advertisement appears or through which it is disseminated are not subject to civil liability for violations under section 185(b) of the ActAct.",
                                     "title":"Persons covered.",
                                     "marker":"1."
                                 },
@@ -4927,7 +4949,7 @@
                                         "3"
                                     ],
                                     "node_type":"interp",
-                                    "text":"lease. Section 1013.7 applies to advertisements for consumer leases, as defined in \u00a7 1013.2(e). Under \u00a7 1013.2(e), a consumer lease is exempt from the requirements of this part if the total contractual obligation exceeds the threshold amount in effect at the time of consummation. See comment 2(e)-9. Accordingly, \u00a7 1013.7 does not apply to an advertisement for a specific consumer lease if the total contractual obligation for that lease exceeds the threshold amount in effect when the advertisement is made. If a lessor promotes multiple consumer leases in a single advertisement, the entire advertisement must comply with \u00a7 1013.7 unless all of the advertised leases are exempt under \u00a7 1013.2(e). For example:",
+                                    "text":"Section 1013.7 applies to advertisements for consumer leases, as defined in \u00a7 1013.2(e). Under \u00a7 1013.2(e), a consumer lease is exempt from the requirements of this part if the total contractual obligation exceeds the threshold amount in effect at the time of consummation. See comment 2(e)-9. Accordingly, \u00a7 1013.7 does not apply to an advertisement for a specific consumer lease if the total contractual obligation for that lease exceeds the threshold amount in effect when the advertisement is made. If a lessor promotes multiple consumer leases in a single advertisement, the entire advertisement must comply with \u00a7 1013.7 unless all of the advertised leases are exempt under \u00a7 1013.2(e). For example:",
                                     "title":"Total contractual obligation of advertised lease.",
                                     "marker":"3."
                                 }
@@ -5158,7 +5180,7 @@
                                                 "1"
                                             ],
                                             "node_type":"interp",
-                                            "text":"state or locality. The disclosure of a periodic payment or total amount due at lease signing or delivery may:",
+                                            "text":"The disclosure of a periodic payment or total amount due at lease signing or delivery may:",
                                             "title":"Third-party fees that vary by state or locality.",
                                             "marker":"1."
                                         }
@@ -5196,7 +5218,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"leases. Multiple-item leases that utilize merchandise tags requiring additional disclosures may use the alternate disclosure rule.",
+                                    "text":"Multiple-item leases that utilize merchandise tags requiring additional disclosures may use the alternate disclosure rule.",
                                     "title":"Multiple-item leases.",
                                     "marker":"1."
                                 }
@@ -5398,7 +5420,7 @@
                                 "1"
                             ],
                             "node_type":"interp",
-                            "text":"Although use of the model forms is not required, lessors using them properly will be deemed to be in compliance with the regulation. Generally, lessors may make certain changes in the format or content of the forms and may delete any disclosures that are inapplicable to a transaction without losing the ActAct's protection from liability. For example, the model form based on monthly periodic payments may be modified for single-payment lease transactions or for quarterly or other regular or irregular periodic payments. The model form may also be modified to reflect that a transaction is an extension. The content, format, and headings for the segregated disclosures must be substantially similar to those contained in the model forms; therefore, any changes should be minimal. The changes to the model forms should not be so extensive as to affect the substance and the clarity of the disclosures.",
+                            "text":"Although use of the model forms is not required, lessors using them properly will be deemed to be in compliance with the regulation. Generally, lessors may make certain changes in the format or content of the forms and may delete any disclosures that are inapplicable to a transaction without losing the Act's protection from liability. For example, the model form based on monthly periodic payments may be modified for single-payment lease transactions or for quarterly or other regular or irregular periodic payments. The model form may also be modified to reflect that a transaction is an extension. The content, format, and headings for the segregated disclosures must be substantially similar to those contained in the model forms; therefore, any changes should be minimal. The changes to the model forms should not be so extensive as to affect the substance and the clarity of the disclosures.",
                             "title":"Permissible changes.",
                             "marker":"1."
                         },
@@ -5542,7 +5564,7 @@
                                 "3"
                             ],
                             "node_type":"interp",
-                            "text":"lease disclosure. Model A-2 is designed for a closed-end or net vehicle lease. Under the \u201cEarly Termination and Default\u201d provision a reference to the lessee's right to an independent appraisal of the leased vehicle under \u00a7 1013.4(l) is included for those closed-end leases in which the lessee's liability at early termination is based on the vehicle's realized value.",
+                            "text":"Model A-2 is designed for a closed-end or net vehicle lease. Under the \u201cEarly Termination and Default\u201d provision a reference to the lessee's right to an independent appraisal of the leased vehicle under \u00a7 1013.4(l) is included for those closed-end leases in which the lessee's liability at early termination is based on the vehicle's realized value.",
                             "title":"Model closed-end or net vehicle lease disclosure.",
                             "marker":"3."
                         },
@@ -5555,7 +5577,7 @@
                                 "4"
                             ],
                             "node_type":"interp",
-                            "text":"lease disclosures. Model A-3 is a closed-end lease disclosure statement designed for a typical furniture lease. It does not include a disclosure of the appraisal right at early termination required under \u00a7 1013.4(l) because few closed-end furniture leases base the lessee's liability at early termination on the realized value of the leased property. The disclosure should be added if it is applicable.",
+                            "text":"Model A-3 is a closed-end lease disclosure statement designed for a typical furniture lease. It does not include a disclosure of the appraisal right at early termination required under \u00a7 1013.4(l) because few closed-end furniture leases base the lessee's liability at early termination on the realized value of the leased property. The disclosure should be added if it is applicable.",
                             "title":"Model furniture lease disclosures.",
                             "marker":"4."
                         }
